@@ -375,9 +375,9 @@ async def overall_stats(client, CallbackQuery, _):
 **Total Cores:** {t_core}
 **Cpu Frequency:** {cpu_freq}
 
-**Python Version :** {pyver.split()[0]}
-**Pyrogram Version :** {pyrover}
-**Py-TgCalls Version :** {pytgver}
+**Python Version:** {pyver.split()[0]}
+**Pyrogram Version:** {pyrover}
+**Py-TgCalls Version:** {pytgver}
 
 **Storage Avail:** {total[:4]} GiB
 **Storage Used:** {used[:4]} GiB
