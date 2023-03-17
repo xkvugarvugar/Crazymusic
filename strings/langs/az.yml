@@ -37,14 +37,14 @@ auth_8 : "┗ Əlavə edib:-"
 
 # PLUGINS - Admins
 admin_1 : "Musiqi artıq dayandırılıb."
-admin_2 : "🎧 Səsli söhbət {} tərəfindən dayandırıldı!"
+admin_2 : "🎧 Səsli söhbət {} tərəfindən dayandırıldı"
 admin_3 : "Musiqi artıq davam etdirilib."
-admin_4 : "🎧 Səsli söhbət {} tərəfindən davam etdirildi!"
+admin_4 : "🎧 Səsli söhbət {} tərəfindən davam etdirildi"
 admin_5 : "Musiqi artıq səssizdir."
-admin_6 : "🎧 Səsli söhbət {} tərəfindən susduruldu!"
+admin_6 : "🎧 Səsli söhbət {} tərəfindən susduruldu"
 admin_7 : "Musiqi artıq səssizdir."
-admin_8 : "🎧 Səsli söhbət {} tərəfindən səssizdən çıxarıldı!"
-admin_9 : "🎧 Səsli söhbət {} tərəfindən dayandırıldı!"
+admin_8 : "🎧 Səsli söhbət {} tərəfindən səssizdən çıxarıldı"
+admin_9 : "🎧 Səsli söhbət {} tərəfindən dayandırıldı"
 admin_10 : "🎧 Səsli söhbət {} tərəfindən atlandı!. Növbədə daha musiqi yoxdur."
 admin_11 : "Yayım **{0}** olaraq dəyişdirilərkən xəta baş verdi.\n\nZəhmət olmasa yenidən /skip istifadə edin."
 admin_12 : "Aktivləşdirilmiş loop ifasına görə xüsusi treki keçmək mümkün deyil. Zəhmət olmasa bu funksiyadan istifadə etmək üçün `/loop disable` vasitəsilə loop ifasını deaktiv edin."
@@ -139,9 +139,9 @@ play_7 : "Bağışlayın! Bot CPU-nun həddən artıq yüklənməsi problemləri
 play_8 : "Etibarlı Video Fayl Genişlənməsi Deyil!\n\n**Dəstəklənən Formatlar:** {0}"
 play_9 : "Videonun Fayl Ölçüsü 1 GiB-dən Az Olmalıdır"
 play_10 : "**Youtube Pleylist Xüsusiyyəti**\n\nBütün Youtube Pleylistini oxutmaq istədiyiniz Rejimi seçin"
-play_11 : "🎵 Başlıq: **{0}\n\n⏳ Müddət:** {1} Dəqiqə"
-play_12 : "**Spotify Play Mode**\n\nTələb:- {0}"
-play_13 : "**Apple Playlists**\n\nTələb:- {0}"
+play_11 : "🎵 **Başlıq:** {0}\n\n⏳ **Müddət:** {1}"
+play_12 : "**Spotify Play Mode**\n\n👤 Tələb: {0}"
+play_13 : "**Apple Playlists**\n\n👤 Tələb: {0}"
 play_14 : "**URL-i yoxlamaq mümkün olmadı.**\nBot bu url-in aşağıdakı platformalardan hər hansı birinə aid olub-olmaması ilə maraqlanır: Youtube, AppleMusic, Spotify, Resso və Soundcloud.\n\nM3u8 və ya Uzaqdan Linklər üçün /stream istifadə edə bilərsiniz. ."
 play_15 : "**Canlı Yayım Aşkarlandı**\n\nSistemlər trek linkinizi canlı yayım kimi aşkarladı. Canlı yayımı oynamaq istəyirsiniz?"
 play_16 : "Toz təfərrüatlarını əldə etmək alınmadı. Başqa birini çalmağa cəhd edin."
@@ -179,7 +179,7 @@ str_2 : "✅ Etibarlı Yayım Doğrulandı\n\nZəhmət olmasa linkin işlənilm�
 str_3 : "YouTube canlı yayımlarını yayımlamaq mümkün deyil. Canlı Format Tapılmadı."
 
 #TopPlay
-tracks_1 : "**{0} Ən Yaxşı 10 Pleylist işlənilir**\nBu, bir neçə dəqiqə çəkə bilər (təxminən 3-4 dəqiqə).. Zəhmət olmasa gözləyin...\n\n**👤 Tələb Edən:** {1}\n\nTop 10 treki /gstats"
+tracks_1 : "**{0} Ən Yaxşı 10 Pleylist işlənilir**\nBu, bir neçə dəqiqə çəkə bilər (təxminən 3-4 dəqiqə).. Zəhmət olmasa gözləyin...\n\n👤 **Tələb:** {1}\n\nTop 10 treki /gstats"
 tracks_2 : "**Xəta**\n\nBotun serverlərində **{0} Top 10 Pleylist** yoxdur. Zəhmət olmasa hər hansı digər pleylistə cəhd edin"
 
 # TOOLS
@@ -187,7 +187,7 @@ tracks_2 : "**Xəta**\n\nBotun serverlərində **{0} Top 10 Pleylist** yoxdur. Z
 #Lyrics
 lyrics_1 : "**İstifadə:**\n\n/lyrics [ Musiqi Adı]"
 lyrics_2 : "Lirika Axtarıram"
-lyrics_3 : "❌ Mahnı sözləri əldə etmək alınmadı😭.\n\n💡 **Axtarmağa cəhd edilib:** {0}"
+lyrics_3 : "❌ Mahnı sözləri əldə etmək alınmadı.\n\n💡 **Axtarmağa cəhd edilib:** {0}"
 lyrics_4 : "Uzun spam tipli sözlər axtarışından qaçmaq üçün aşağıdakı düyməyə klikləyin və axtarılan sözləri əldə edin."
 
 #Ping
@@ -198,7 +198,7 @@ ping_1: "Pong !!!!"
 song_1 : "YouTube'dan Musiqi və ya Videonu yalnız şəxsi söhbətdə endirə bilərsiniz. Zəhmət olmasa şəxsi söhbətdə mənə yazın."
 song_2 : "**İstifadə:**\n\n/mahnı [Musiqi Adı] və ya [Youtube Linki]"
 song_3 : "Canlı Link Aşkarlandı. Mən canlı youtube videolarını endirə bilmirəm."
-song_4 : "**🎵 Başlıq:**- {0}\n\nEndirmək istədiyiniz növü seçin."
+song_4 : "🎵 **Başlıq:** {0}\n\nEndirmək istədiyiniz növü seçin."
 song_5 : "Etibarlı Youtube Linki deyil"
 song_6 : "Formatlar əldə edilir.. \n\nZəhmət olmasa gözləyin.."
 song_7 : "Video üçün mövcud formatları əldə etmək alınmadı. Zəhmət olmasa hər hansı digər treki sınayın."
@@ -211,34 +211,34 @@ song_11 : "Yükləmə Başladı\n\nYükləmə sürəti yavaş ola bilər. Zəhm�
 queue_1 : "Zəhmət olmasa gözləyin... Növbə gətirilir."
 queue_2 : "Növbə daxilində trek yoxdur."
 queue_3 : "<u>**Növbəyə qoyulmuş yollar:</u>**  [Buradan daha çox növbəyə alınmış trekləri yoxlayın]({0})"
-queue_4 : "⏭️ Növbəyə əlavə edildi**#{0}\n\n🎵 Başlıq:** {1}\n**⏱Duration:** {2}\n👤 **Tələb Edən:** {3}"
+queue_4 : "⏭️ **Növbə** #{0}\n\n🎵 **Başlıq:** {1}\n**⏱Duration:** {2}\n👤 **Tələb:** {3}"
 
 # All Streaming Lines
-stream_1 : "📡 **Yayım Başladı**\n\n👤 **Tələb Edən:** {0}\nℹ️ **Məlumat: **[Burada]({1})"
-stream_2 : "📡 **URL vasitəsilə yayıma başladı**\n\n👤 **Tələb Edən:** {0}"
-stream_3 : "📡 **Yayım Başladı**\n\n**🎵 Başlıq:** {0}\n⌛️ **Müddət**: {1}\n👤 **Tələb Edən:** {2} "
-stream_4 : "📡 **Yayım Başladı**\n\n**🎵 Başlıq:** [{0}]({1})\n⌛️ **Müddət**: {2}\n👤 **Tələb Edən:** {3}"
+stream_1 : "👤 **Tələb:** {0}\nℹ️ **Məlumat: **[Burada]({1})"
+stream_2 : "👤 **Tələb:** {0}"
+stream_3 : "🎵 **Başlıq:** {0}\n⌛️ **Müddət:** {1}\n👤 **Tələb:** {2} "
+stream_4 : "🎵 **Başlıq:** [{0}]({1})\n⌛️ **Müddət**: {2}\n👤 **Tələb:** {3}"
 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Bağla"
-CLOSEMENU_BUTTON  : "🗑 Menyunu bağlayın"
+CLOSE_BUTTON  : "✖️ Bağla"
+CLOSEMENU_BUTTON  : "✖️ Menyunu bağlayın"
 BACK_BUTTON : "⬅ Geri"
-UNBAN_BUTTON : "🗑 Köməkçinin qadağasını aradan qaldırın"
+UNBAN_BUTTON : "🗑️ Köməkçinin qadağasını aradan qaldırın"
 
 #Lyrics
 L_B_1 : "🚀 İndi Mahnıları yoxlayın"
 
 # Start
-S_B_1 : "🗒 Əmrlər"
+S_B_1 : "📚 Əmrlər"
 S_B_2 : "🔧 Parametrlər"
-S_B_3 : "🆘 Dəstək"
-S_B_4 : "📨 Kanal"
-S_B_5 : "✚ Məni öz qrupuna əlavə et ✚"
+S_B_3 : "🆘 Support"
+S_B_4 : "✅ Rəsmi Kanal"
+S_B_5 : "✚ Məni Qrupa Əlavə Et ✚"
 S_B_6 : "🔗 Repo"
 S_B_7 : "👨🏻‍💻 Bot Sahibi"
-S_B_8 : "📝 Necə İstifadə Edilir? Komandalar Menyu."
+S_B_8 : "🤔 Necə İstifadə Edilir? Komandalar Menyu"
 
 #Help 
 H_B_1 : "Admin Əmrləri"
