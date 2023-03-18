@@ -69,7 +69,7 @@ admin_27 : "Loop-Play qeyri-aktiv edilib"
 # Start
 start_1 : "Məni {0} qrupuna əlavə etdiyiniz üçün təşəkkür edirəm.\n{1} işlək vəziyyətdədir.\n\nHər hansı problemlə qarşılaşsanız dəstək qrupumuza gəlin."
 start_2 : "Salam, mənim adım {0}.\n\nMənim bəzi faydalı xüsusiyyətləri olan teleqram yayım botuyam. Youtube, Spotify, Resso, AppleMusic, Soundcloud və s. kimi platformaları istifadə edirəm.\n\nMəni qruplarınıza əlavə etməkdən çəkinməyin."
-start_3 : "Xoş gəlmisiniz {0}\n\nİşləməsi üçün **admin icazəsinə** ehtiyacım yoxdur (tələb olunana qədər).\n\nAssistent İstifadəçi Adı:- @{1}\nAssistent ID-si:- {2} "
+start_3 : "Məni qrupa əlavə etdiyiniz üçün təşəkkür edirəm 🥰 {0}\n\nMusiqi botun işləməsi üçün **admin icazəsinə** ehtiyac yoxdur.\n\nAssistant İstifadəçi Adı: @{1}\nAssistant ID: {2}"
 start_4 : "{0} Sahibi [{1}] indicə söhbətinizə qoşulub."
 start_5 : "{0} adlı botun Sudo İstifadəçisinin [{1}] üzvü indicə söhbətinizə qoşulub."
 start_6 : "❗️ **Superqrup lazımdır** ❗️\n\nZəhmət olmasa **qrupunuzu** **superqrupa** çevirin və sonra məni yenidən əlavə edin.\n\n**Superqrupu necə yaratmaq olar?**\n✅ Qrupunuzun söhbət tarixçəsini bir dəfə **görünən** edin."
