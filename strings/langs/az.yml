@@ -331,7 +331,8 @@ block_1 : "{0} artıq botdan bloklanıb."
 block_2 : "Botun Blok Siyahısına **{0}** əlavə edildi. İstifadəçi indi heç bir şərt altında botdan istifadə edə bilməyəcək.\n\nBloklanmış istifadəçiləri yoxlayın: /blockedusers"
 block_3 : "İstifadəçi artıq pulsuzdur və bloklanmayıb."
 block_4 : "İstifadəçi blok siyahısından silindi. İstifadəçi indi botdan istifadə edə biləcək."
-block_5 : "Bloklanmış İstifadəçi tapılmadı" block_6 : "Bloklanmış İstifadəçilər Siyahısı əldə edilir. Zəhmət olmasa gözləyin"
+block_5 : "Bloklanmış İstifadəçi tapılmadı"
+block_6 : "Bloklanmış İstifadəçilər Siyahısı əldə edilir. Zəhmət olmasa gözləyin"
 block_7 : "**Bloklanmış İstifadəçilər:**\n\n"
 
 #Blacklist Chats
