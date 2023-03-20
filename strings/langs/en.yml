@@ -33,19 +33,19 @@ auth_4 : "Bu Qrupun Səlahiyyətli İstifadəçiləri Siyahısından Silindi."
 auth_5 : "Hədəf edilmiş istifadəçi Səlahiyyətli İstifadəçi deyil."
 auth_6 : "İcazəli İstifadəçilər götürülür... Zəhmət olmasa gözləyin"
 auth_7 : "**Səlahiyyətli İstifadəçilər Siyahısı [AUL]:**\n\n"
-auth_8 : "┗ Əlavə edib:-"
+auth_8 : "┗ Əlavə edib:"
 
 # PLUGINS - Admins
 admin_1 : "Musiqi artıq dayandırılıb."
-admin_2 : "🎧 Səsli söhbət {} tərəfindən dayandırıldı"
-admin_3 : "Musiqi artıq davam etdirilib."
-admin_4 : "🎧 Səsli söhbət {} tərəfindən davam etdirildi"
-admin_5 : "Musiqi artıq səssizdir."
-admin_6 : "🎧 Səsli söhbət {} tərəfindən susduruldu"
-admin_7 : "Musiqi artıq səssizdir."
-admin_8 : "🎧 Səsli söhbət {} tərəfindən səssizdən çıxarıldı"
-admin_9 : "🎧 Səsli söhbət {} tərəfindən dayandırıldı"
-admin_10 : "🎧 Səsli söhbət {} tərəfindən atlandı!. Növbədə daha musiqi yoxdur."
+admin_2 : "{} tərəfindən dayandırıldı"
+admin_3 : "Musiqi artıq davam etdirilib"
+admin_4 : "{} tərəfindən davam etdirildi"
+admin_5 : "Musiqi artıq səssizdir"
+admin_6 : "{} tərəfindən susduruldu"
+admin_7 : "Musiqi artıq səssizdir"
+admin_8 : "{} tərəfindən səssizdən çıxarıldı"
+admin_9 : "{} tərəfindən dayandırıldı"
+admin_10 : "{} tərəfindən atlandı! Növbədə daha musiqi yoxdur"
 admin_11 : "Yayım **{0}** olaraq dəyişdirilərkən xəta baş verdi.\n\nZəhmət olmasa yenidən /skip istifadə edin."
 admin_12 : "Aktivləşdirilmiş loop ifasına görə xüsusi treki keçmək mümkün deyil. Zəhmət olmasa bu funksiyadan istifadə etmək üçün `/loop disable` vasitəsilə loop ifasını deaktiv edin."
 admin_13 : "Xüsusi treklər üçün rəqəmli nömrələrdən istifadə edin, məsələn, 1, 2 və ya 4 və s."
@@ -69,7 +69,7 @@ admin_27 : "Loop-Play qeyri-aktiv edilib"
 # Start
 start_1 : "Məni {0} qrupuna əlavə etdiyiniz üçün təşəkkür edirəm.\n{1} işlək vəziyyətdədir.\n\nHər hansı problemlə qarşılaşsanız dəstək qrupumuza gəlin."
 start_2 : "Salam, mənim adım {0}.\n\nMənim bəzi faydalı xüsusiyyətləri olan teleqram yayım botuyam. Youtube, Spotify, Resso, AppleMusic, Soundcloud və s. kimi platformaları istifadə edirəm.\n\nMəni qruplarınıza əlavə etməkdən çəkinməyin."
-start_3 : "Məni qrupa əlavə etdiyiniz üçün təşəkkür edirəm 🥰 {0}\n\nMusiqi botun işləməsi üçün **admin icazəsinə** ehtiyac yoxdur.\n\nAssistant İstifadəçi Adı: @{1}\nAssistant ID: {2}"
+start_3 : "Məni qrupa əlavə etdiyiniz üçün təşəkkür edirəm 🥰 {0}\n\nMusiqi botun işləməsi üçün **admin icazəsinə** ehtiyac yoxdur.\n\n🤖 @{1}\n🆔 `{2}`"
 start_4 : "{0} Sahibi [{1}] indicə söhbətinizə qoşulub."
 start_5 : "{0} adlı botun Sudo İstifadəçisinin [{1}] üzvü indicə söhbətinizə qoşulub."
 start_6 : "❗️ **Superqrup lazımdır** ❗️\n\nZəhmət olmasa **qrupunuzu** **superqrupa** çevirin və sonra məni yenidən əlavə edin.\n\n**Superqrupu necə yaratmaq olar?**\n✅ Qrupunuzun söhbət tarixçəsini bir dəfə **görünən** edin."
@@ -80,7 +80,7 @@ help_1 : "Ətraflı məlumat üçün aşağıdakı düymələrə klikləyin. Əg
 help_2 : "Kömək üçün PM-də mənimlə əlaqə saxlayın."
 
 # Settings
-settings_1 : "⚙️ **Musiqi Botu Parametrləri**\n\n🖇 **Qrup:** {0}\n🔖 **Qrup ID-si:** `{1}`\n\n💡 **Funksiyanı seçin Aşağıdan redaktə etmək və ya dəyişmək istədiyiniz düymələr.**"
+settings_1 : "⚙️ **Musiqi Botu Parametrləri**\n\n💬 **Qrup:** {0}\n🆔 **Qrup ID-si:** `{1}`\n\n💡 **Funksiyanı seçin Aşağıdan redaktə etmək və ya dəyişmək istədiyiniz düymələr.**"
 settings_3 : "⁉️ Bu nədir?\n\n1) Birbaşa: Axtarış sorğularını birbaşa oxuyur. Videoları birbaşa rejimdə oynamaq üçün -v düyməsini istifadə edin.\n\n2) Daxil: Video və audio arasında seçim etmək üçün Daxili İşarələmə düymələrini qaytarır."
 settings_4 : "⁉️ Bu nədir?\n\n👥 Hər kəs: Bu qrupda mövcud olan admin əmrlərindən (/skip, /pause, /continue və s.) hər kəs istifadə edə bilər.\n\n🙍 Yalnız Admin: Yalnız adminlər və səlahiyyətli istifadəçilər admin əmrlərindən istifadə edə bilər."
 settings_5 : "Heç bir Səlahiyyətli İstifadəçi Tapılmadı\n\nSiz hər hansı qeyri-admin admin əmrlərimi /auth ilə istifadə etməyə və /unauth istifadə edərək silməyə icazə verə bilərsiniz"
@@ -211,27 +211,27 @@ song_11 : "Yükləmə Başladı\n\nYükləmə sürəti yavaş ola bilər. Zəhm�
 queue_1 : "Zəhmət olmasa gözləyin... Növbə gətirilir."
 queue_2 : "Növbə daxilində trek yoxdur."
 queue_3 : "<u>**Növbəyə qoyulmuş yollar:</u>**  [Buradan daha çox növbəyə alınmış trekləri yoxlayın]({0})"
-queue_4 : "⏭️ **Növbə** #{0}\n\n🎵 **Başlıq:** {1}\n**⏱Duration:** {2}\n👤 **Tələb:** {3}"
+queue_4 : "⏭️ **Növbə:** #{0}\n\n🎵 **Başlıq:** {1}\n⏳ **Müddət:** {2}\n👤 **Tələb:** {3}"
 
 # All Streaming Lines
 stream_1 : "👤 **Tələb:** {0}\nℹ️ **Məlumat: **[Burada]({1})"
 stream_2 : "👤 **Tələb:** {0}"
-stream_3 : "🎵 **Başlıq:** {0}\n⌛️ **Müddət:** {1}\n👤 **Tələb:** {2} "
-stream_4 : "🎵 **Başlıq:** [{0}]({1})\n⌛️ **Müddət**: {2}\n👤 **Tələb:** {3}"
+stream_3 : "🎵 **Başlıq:** {0}\n⏳ **Müddət:** {1}\n👤 **Tələb:** {2} "
+stream_4 : "🎵 **Başlıq:** [{0}]({1})\n**Müddət:** {2}\n👤 **Tələb:** {3}"
 
 # Inline Buttons
 
 #General Buttons
 CLOSE_BUTTON  : "✖️ Bağla"
-CLOSEMENU_BUTTON  : "✖️ Menyunu bağlayın"
-BACK_BUTTON : "⬅ Geri"
+CLOSEMENU_BUTTON  : "✖️ Menyunu Bağla"
+BACK_BUTTON : "🔙 Geri"
 UNBAN_BUTTON : "🗑️ Köməkçinin qadağasını aradan qaldırın"
 
 #Lyrics
 L_B_1 : "🚀 İndi Mahnıları yoxlayın"
 
 # Start
-S_B_1 : "📚 Əmrlər"
+S_B_1 : "📚 Bot Əmrləri"
 S_B_2 : "🔧 Parametrlər"
 S_B_3 : "🆘 Support"
 S_B_4 : "✅ Rəsmi Kanal"
@@ -295,8 +295,8 @@ ST_B_19 : "🔎 Axtarış Rejimi"
 ST_B_20 : "✅ Birbaşa"
 ST_B_21 : "✅ Daxili"
 ST_B_22 : "👨🏻‍💻 Admin Əmrləri"
-ST_B_23 : "🏘 Qrup"
-ST_B_24 : "🏷 Kanal"
+ST_B_23 : "💬 Qrup"
+ST_B_24 : "📢 Kanal"
 ST_B_25 : "🫂 Oyun Növü"
 ST_B_26 : "🗑 Təmizləmə əmri"
 
@@ -323,8 +323,8 @@ sudo_2 : "Sudo İstifadəçilərinə **{0}** əlavə edildi."
 sudo_3 : "Bot Sudo-nun bir hissəsi deyil."
 sudo_4 : "Botun Sudo İstifadəçisindən silindi"
 sudo_5 : "⭐️<u> **Sahib:**</u>\n"
-sudo_6 : "\n⭐️<u> **Sudo İstifadəçilər:**</u>\n"
-sudo_7 : "Sudo İstifadəçilər Yoxdur."
+sudo_6 : "\n⭐️<u> **Sudo İstifadəçi:**</u>\n"
+sudo_7 : "Sudo istifadəçi yoxdur."
 
 #Block
 block_1 : "{0} artıq botdan bloklanıb."
